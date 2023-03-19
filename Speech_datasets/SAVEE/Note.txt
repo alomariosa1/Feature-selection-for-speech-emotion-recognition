@@ -1,0 +1,4 @@
+Feature extraction based on MFCC+Chroma+ZeroCross+RMSE+MEL
+Splitting ratio=0.1
+
+X_train_mfcc1_chroma_Zerocross_rms_mel

@@ -1,0 +1,5 @@
+Feature extraction based on MFCC
+Splitting ratio=0.1
+
+X_test_0.1_MFCC_Chroma_Mel
+yes it witten many FE but just mfcc used

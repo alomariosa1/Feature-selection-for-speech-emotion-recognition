@@ -1,0 +1,4 @@
+Feature extraction based on MFCC_DEV+Chroma+MEL
+Splitting ratio=0.1
+
+X_testRV_16000_0.1_MFCCDEV_Chroma_Mel
